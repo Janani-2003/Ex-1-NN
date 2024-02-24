@@ -87,14 +87,14 @@ print("\nLenght of X_test ",len(X_test))
 ```
 
 ## OUTPUT:
-#### Dataframe:
+### Dataframe:
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/4dd4cecf-d41c-4271-967b-95475e2dce8f)
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/1c90dac5-7ad8-41eb-a3ad-d248c8bd538a)
-#### Values of X:
+### Values of X:
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/d56f1da9-6831-4691-a1b4-18795d4964ed)
-#### Values of Y:
+### Values of Y:
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/f5c42cd0-42ca-43a0-acc3-cf372eb443d2)
-#### Null values:
+### Null values:
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/a46d3706-7d4a-4bbd-9d49-3706b5085678)
 
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/a2657627-d999-4cec-b262-8c768a0b8a98)
@@ -138,7 +138,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/a25013c0-1cac-4d1d-8e05-e432dda66eae)
 _______________________________________________________________________________________________________
-#### MinMax Scaling:
+### MinMax Scaling:
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/43e9d81f-e928-4c37-973c-81af84a7c431)
 _______________________________________________________________________________________________________
 ![image](https://github.com/Janani-2003/Ex-1-NN/assets/94288340/08d51576-7a34-4617-aa02-698015202672)
